@@ -1,0 +1,15 @@
+/Users/mhalsey/Documents/Projects/M2_KnowledgeCheck/M2_Knowledge_Check/bin/Debug/net8.0/M2_Knowledge_Check
+/Users/mhalsey/Documents/Projects/M2_KnowledgeCheck/M2_Knowledge_Check/bin/Debug/net8.0/M2_Knowledge_Check.deps.json
+/Users/mhalsey/Documents/Projects/M2_KnowledgeCheck/M2_Knowledge_Check/bin/Debug/net8.0/M2_Knowledge_Check.runtimeconfig.json
+/Users/mhalsey/Documents/Projects/M2_KnowledgeCheck/M2_Knowledge_Check/bin/Debug/net8.0/M2_Knowledge_Check.dll
+/Users/mhalsey/Documents/Projects/M2_KnowledgeCheck/M2_Knowledge_Check/bin/Debug/net8.0/M2_Knowledge_Check.pdb
+/Users/mhalsey/Documents/Projects/M2_KnowledgeCheck/M2_Knowledge_Check/obj/Debug/net8.0/M2_Knowledge_Check.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mhalsey/Documents/Projects/M2_KnowledgeCheck/M2_Knowledge_Check/obj/Debug/net8.0/M2_Knowledge_Check.AssemblyInfoInputs.cache
+/Users/mhalsey/Documents/Projects/M2_KnowledgeCheck/M2_Knowledge_Check/obj/Debug/net8.0/M2_Knowledge_Check.AssemblyInfo.cs
+/Users/mhalsey/Documents/Projects/M2_KnowledgeCheck/M2_Knowledge_Check/obj/Debug/net8.0/M2_Knowledge_Check.csproj.CoreCompileInputs.cache
+/Users/mhalsey/Documents/Projects/M2_KnowledgeCheck/M2_Knowledge_Check/obj/Debug/net8.0/M2_Knowledge_Check.sourcelink.json
+/Users/mhalsey/Documents/Projects/M2_KnowledgeCheck/M2_Knowledge_Check/obj/Debug/net8.0/M2_Knowledge_Check.dll
+/Users/mhalsey/Documents/Projects/M2_KnowledgeCheck/M2_Knowledge_Check/obj/Debug/net8.0/refint/M2_Knowledge_Check.dll
+/Users/mhalsey/Documents/Projects/M2_KnowledgeCheck/M2_Knowledge_Check/obj/Debug/net8.0/M2_Knowledge_Check.pdb
+/Users/mhalsey/Documents/Projects/M2_KnowledgeCheck/M2_Knowledge_Check/obj/Debug/net8.0/M2_Knowledge_Check.genruntimeconfig.cache
+/Users/mhalsey/Documents/Projects/M2_KnowledgeCheck/M2_Knowledge_Check/obj/Debug/net8.0/ref/M2_Knowledge_Check.dll
